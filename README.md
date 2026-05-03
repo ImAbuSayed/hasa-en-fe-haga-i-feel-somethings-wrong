@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Hasa En Fe Haga – I feel something’s wrong |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 30, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hasa-en-fe-haga-i-feel-somethings-wrong/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
